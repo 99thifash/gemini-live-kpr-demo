@@ -5,8 +5,6 @@ Gemini. It processes continuous streams of audio, video, or text to deliver
 immediate, human-like spoken responses, creating a natural conversational
 experience for your users.
 
-![Live API Overview](https://ai.google.dev/gemini-api/docs/images/live-api-overview.png)
-
 [Try the Live API in Google AI Studio](https://aistudio.google.com/live)
 
 ## Example use cases
