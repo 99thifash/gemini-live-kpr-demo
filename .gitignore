@@ -3,3 +3,6 @@ __pycache__
 .venv
 .env
 .env*
+.omc/
+log_*.txt
+/prompt_kpr.txt
